@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: WowVision Surroundings
+## Version: 0.1.0
+## Notes: Surroundings data for WowVision on WoW: Forever (places, rooms, streets, edges)
+## Dependencies: WowVision
+
+main.lua
+zones\elwynn.lua
+zones\dunmorogh.lua
+zones\undercity.lua
