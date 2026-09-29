@@ -8,3 +8,4 @@ main.lua
 zones\elwynn.lua
 zones\dunmorogh.lua
 zones\undercity.lua
+zones\deeprun.lua
