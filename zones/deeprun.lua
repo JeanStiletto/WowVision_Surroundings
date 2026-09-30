@@ -3,7 +3,7 @@ local _, addon = ...
 addon.addZone({
     key = "deeprun", label = "Deeprun Tram", map = 369,
     top = 200.0000, left = 2545.8333, cell = 4.1666667, rows = 101, cols = 622,
-    dirs = {"water to the %s", "deep water to the %s", "land to the %s", "drop to the %s", "rock wall to the %s", "building to the %s", "to the %s", "running %s"},
+    dirs = {"water to the %s", "deep water to the %s", "land to the %s", "drop to the %s", "rock wall to the %s", "building to the %s", "to the %s", "running %s", "up to the %s"},
     compass = {"north", "northeast", "east", "southeast", "south", "southwest", "west", "northwest"},
     axes = {"north-south", "northeast-southwest", "east-west", "northwest-southeast"},
     places = {
@@ -341,6 +341,7 @@ addon.addZone({
             {1,7,6,0,18,12.3,34.4,12.8,36.4,14.8,36.4,16.8,36.4,18.8,36.4,20.8,36.4,22.8,36.4,24.8,36.4},
             {1,3,10,0,18,-1.2,-38.6,0.8,-38.6,2.8,-38.6,4.8,-38.6,6.8,-38.6,8.8,-38.6,10.8,-38.6},
         },
+        exits = {},
     },
     stops = {
         {"tram", "Ironforge", 11, {55,5,55,6,55,7,55,8,55,9,55,10,55,11,55,12,55,13,55,14,55,15,55,16,55,17,55,18,55,19,56,5,56,6,56,7,56,8,56,9,56,10,56,11,56,12,56,13,56,14,56,15,56,16,56,17,56,18,56,19,57,5,57,6,57,7,57,8,57,9,57,10,57,11,57,12,57,13,57,14,57,15,57,16,57,17,57,18,57,19,60,5,60,6,60,7,60,8,60,9,60,10,60,11,60,12,60,13,60,14,60,15,60,16,60,17,60,18,60,19,61,5,61,6,61,7,61,8,61,9,61,10,61,11,61,12,61,13,61,14,61,15,61,16,61,17,61,18,61,19,62,5,62,6,62,7,62,8,62,9,62,10,62,11,62,12,62,13,62,14,62,15,62,16,62,17,62,18,62,19}, {-45.4,2522.2,-45.4,2462.9}},
@@ -350,7 +351,7 @@ addon.addZone({
     },
     locales = {
         deDE = {
-            dirs = {"Wasser im %s", "tiefes Wasser im %s", "Land im %s", "Abgrund im %s", "Felswand im %s", "Gebäude im %s", "im %s", "%s"},
+            dirs = {"Wasser im %s", "tiefes Wasser im %s", "Land im %s", "Abgrund im %s", "Felswand im %s", "Gebäude im %s", "im %s", "%s", "hinauf nach %s"},
             compass = {"Norden", "Nordosten", "Osten", "Südosten", "Süden", "Südwesten", "Westen", "Nordwesten"},
             axes = {"Nord nach Süd", "Nordost nach Südwest", "Ost nach West", "Nordwest nach Südost"},
             places = {
@@ -362,7 +363,7 @@ addon.addZone({
             stops = {"Ironforge", "Ironforge", "Sturmwind", "Sturmwind"},
         },
         frFR = {
-            dirs = {"eau %s", "eau profonde %s", "terre %s", "précipice %s", "paroi rocheuse %s", "bâtiment %s", "%s", "%s"},
+            dirs = {"eau %s", "eau profonde %s", "terre %s", "précipice %s", "paroi rocheuse %s", "bâtiment %s", "%s", "%s", "montant %s"},
             compass = {"au nord", "au nord-est", "à l'est", "au sud-est", "au sud", "au sud-ouest", "à l'ouest", "au nord-ouest"},
             axes = {"du nord au sud", "du nord-est au sud-ouest", "d'est en ouest", "du nord-ouest au sud-est"},
             places = {
