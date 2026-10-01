@@ -146,6 +146,9 @@ addon.addZone({
     pieceCells = {},
     access = {},
     links = {},
+    stacked = {},
+    piecePlaces = {},
+    laneFields = 10,
     edges = {
     },
     objectNames = {"lamp post", "gnome pipe", "rock", "worm gear", "king gear", "king pistons", "barrel", "bucket", "table", "tree", "planter", "crane", "wagon", "brazier", "wreck back"},
