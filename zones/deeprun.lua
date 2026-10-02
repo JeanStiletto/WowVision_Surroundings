@@ -351,6 +351,12 @@ addon.addZone({
         exits = {},
         pools = {
         },
+        pieceCells = {},
+        access = {},
+        links = {},
+        stacked = {},
+        pieceOwn = {},
+        piecePlaces = {},
     },
     climbFeetFields = 4,
     climbFeet = {},
