@@ -356,6 +356,7 @@ addon.addZone({
         links = {},
         stacked = {},
         pieceOwn = {},
+        exitLevels = {},
         piecePlaces = {},
     },
     climbFeetFields = 4,
