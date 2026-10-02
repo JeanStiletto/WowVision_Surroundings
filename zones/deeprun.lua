@@ -140,6 +140,8 @@ addon.addZone({
         {1, "water beside the tunnel south", "large hall", {66.1,-1492.8,215.7,-956.8}, f = 80730, s = 1},
     },
     exits = {},
+    pools = {
+    },
     deadExits = {},
     noContact = {},
     structs = {},
@@ -347,6 +349,8 @@ addon.addZone({
             {1,90,10,0,18,-1.2,-38.6,0.8,-38.6,2.8,-38.6,4.8,-38.6,6.8,-38.6,8.8,-38.6,10.8,-38.6},
         },
         exits = {},
+        pools = {
+        },
     },
     climbFeetFields = 4,
     climbFeet = {},
