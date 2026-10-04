@@ -356,6 +356,8 @@ addon.addZone({
         links = {},
         stacked = {},
         pieceOwn = {},
+        linkPoints = {},
+        noTouch = {},
         exitLevels = {},
         piecePlaces = {},
     },
