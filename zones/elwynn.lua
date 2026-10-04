@@ -8,6 +8,7 @@ addon.addZone({
     dirsClock = {"water at %s", "deep water at %s", "land at %s", "drop at %s", "rock wall at %s", "building at %s", "at %s", "%s", "up at %s"},
     compass = {"north", "northeast", "east", "southeast", "south", "southwest", "west", "northwest"},
     axes = {"north-south", "northeast-southwest", "east-west", "northwest-southeast"},
+    floors = {{"upstairs", "upstairs landing", "stairs to the upstairs landing", "stairs"}},
     places = {
         {"deep water", "deep water of Stormwind Harbor"},
         {"shore", "shore of Stormwind Harbor"},
@@ -2400,6 +2401,7 @@ addon.addZone({
             dirsClock = {"Wasser auf %s", "tiefes Wasser auf %s", "Land auf %s", "Abgrund auf %s", "Felswand auf %s", "Gebäude auf %s", "auf %s", "%s", "hinauf auf %s"},
             compass = {"Norden", "Nordosten", "Osten", "Südosten", "Süden", "Südwesten", "Westen", "Nordwesten"},
             axes = {"Nord nach Süd", "Nordost nach Südwest", "Ost nach West", "Nordwest nach Südost"},
+            floors = {{"Obergeschoss", "Obergeschoss", "Treppe Richtung Obergeschoss", "Treppe"}},
             places = {
                 {"tiefes Wasser, Hafen von Stormwind"},
                 {"Ufer, Hafen von Stormwind"},
@@ -2650,6 +2652,7 @@ addon.addZone({
             dirsClock = {"eau à %s", "eau profonde à %s", "terre à %s", "précipice à %s", "paroi rocheuse à %s", "bâtiment à %s", "à %s", "%s", "montant à %s"},
             compass = {"au nord", "au nord-est", "à l'est", "au sud-est", "au sud", "au sud-ouest", "à l'ouest", "au nord-ouest"},
             axes = {"du nord au sud", "du nord-est au sud-ouest", "d'est en ouest", "du nord-ouest au sud-est"},
+            floors = {{"étage", "étage", "escalier direction étage", "escalier"}},
             places = {
                 {"eau profonde, Port de Hurlevent"},
                 {"rive, Port de Hurlevent"},
