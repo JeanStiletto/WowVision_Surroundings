@@ -7,7 +7,7 @@ surroundings stay silent. What is said and how to use it: WowVision's documentat
 "Surroundings (WoW: Forever)".
 
 Covered so far: Elwynn Forest with Stormwind, Dun Morogh with Ironforge, Tirisfal Glades with
-Undercity. Place and building names are in English, German and French.
+Undercity, and the Deeprun Tram. Place and building names are in English, German and French.
 
 ## Installing
 

@@ -1,6 +1,6 @@
 ## Interface: 16001
 ## Title: WowVision Surroundings
-## Version: 0.1.0
+## Version: 0.2.0
 ## Notes: Surroundings data for WowVision on WoW: Forever (places, rooms, streets, edges)
 ## Dependencies: WowVision
 
