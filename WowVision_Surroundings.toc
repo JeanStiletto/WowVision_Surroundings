@@ -9,3 +9,6 @@ zones\elwynn.lua
 zones\dunmorogh.lua
 zones\undercity.lua
 zones\deeprun.lua
+places\elwynn.lua
+places\dunmorogh.lua
+places\undercity.lua
