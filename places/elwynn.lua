@@ -12,7 +12,7 @@ addon.addPlaces({
         }},
     },
     areas = {
-        {1, 9, 6, 1, 2, {-8922.9,-152.1}, {-9035.4,-6.3,0,1,-9060.4,-39.6,0,1,-8568.8,-272.9,3,0,-8602.1,-272.9,3,0,-8635.4,-272.9,3,0,-8668.8,-272.9,3,0,-8702.1,-239.6,3,0,-8739.6,-35.4,3,0,-8739.6,-68.8,3,0,-8739.6,-102.1,3,0,-8739.6,-135.4,3,0,-8739.6,-168.8,3,0,-8739.6,-202.1,3,0,-8568.8,-27.1,3,0,-8602.1,-27.1,3,0,-8635.4,-27.1,3,0,-8668.8,-27.1,3,0,-8702.1,-27.1,3,0,-9002.1,-539.6,7,0,-9035.4,-539.6,7,0,-9068.8,-539.6,7,0,-9102.1,-539.6,7,0,-9135.4,-439.6,7,0,-9168.8,-406.3,7,0,-9139.6,-472.9,7,0,-9139.6,-506.3,7,0,-9002.1,-260.4,7,0,-9035.4,-260.4,7,0,-9068.8,-260.4,7,0,-9102.1,-260.4,7,0,-9135.4,-260.4,7,0,-8993.8,-293.8,7,0,-8993.8,-327.1,7,0,-8993.8,-360.4,7,0,-8993.8,-393.8,7,0,-8993.8,-427.1,7,0,-8993.8,-460.4,7,0,-8993.8,-493.8,7,0,-9068.8,-560.4,4,0,-9102.1,-560.4,4,0,-9135.4,-527.1,4,0,-9168.8,-493.8,4,0,-9060.4,-593.8,4,0,-9193.8,-402.1,2,0,-9193.8,-435.4,2,0,-9193.8,-468.8,2,0}, {-8922.9,-152.1,-8631.2,-547.9,-9122.9,-556.3,-8568.8,-2.1,-8652.1,-272.9,-8864.6,-422.9}, items = {
+        {1, 9, 6, 1, 2, {-8922.9,-152.1}, {-9035.4,-6.3,0,1,-9060.4,-39.6,0,1,-8568.8,-272.9,3,0,-8602.1,-272.9,3,0,-8635.4,-272.9,3,0,-8668.8,-272.9,3,0,-8702.1,-239.6,3,0,-8739.6,-35.4,3,0,-8739.6,-68.8,3,0,-8739.6,-102.1,3,0,-8739.6,-135.4,3,0,-8739.6,-168.8,3,0,-8739.6,-202.1,3,0,-8568.8,-27.1,3,0,-8602.1,-27.1,3,0,-8635.4,-27.1,3,0,-8668.8,-27.1,3,0,-8702.1,-27.1,3,0,-9002.1,-539.6,7,0,-9035.4,-539.6,7,0,-9068.8,-539.6,7,0,-9102.1,-539.6,7,0,-9135.4,-439.6,7,0,-9168.8,-406.3,7,0,-9139.6,-472.9,7,0,-9139.6,-506.3,7,0,-9002.1,-260.4,7,0,-9035.4,-260.4,7,0,-9068.8,-260.4,7,0,-9102.1,-260.4,7,0,-9135.4,-260.4,7,0,-8993.8,-293.8,7,0,-8993.8,-327.1,7,0,-8993.8,-360.4,7,0,-8993.8,-393.8,7,0,-8993.8,-427.1,7,0,-8993.8,-460.4,7,0,-8993.8,-493.8,7,0,-9068.8,-560.4,4,0,-9102.1,-560.4,4,0,-9135.4,-527.1,4,0,-9168.8,-493.8,4,0,-9060.4,-593.8,4,0,-9193.8,-402.1,2,0,-9193.8,-435.4,2,0,-9193.8,-468.8,2,0}, {-8922.9,-152.1,-8631.2,-552.1,-9122.9,-556.3,-8568.8,-2.1,-8652.1,-272.9,-8864.6,-427.1}, items = {
             {"building", 10, 4, {-8909.2,-146.9,-8911.6,-141.4,-8897.5,-173.5,-8894.1,-173.8}, rooms = {
                 {"room", 7, 4, {-8908.9,-188.9,-8906.7,-183.3}},
                 {"room", 8, 4, {-8879.1,-175.7,-8884.7,-173.5}},
@@ -34,7 +34,7 @@ addon.addPlaces({
         }},
         {1, 59, 19, 0, 2, {}, {-9002.1,-272.9,1,0,-9035.4,-272.9,1,0,-9068.8,-272.9,1,0,-9102.1,-272.9,1,0,-9135.4,-272.9,1,0,-9006.2,-306.3,1,0,-9006.2,-339.6,1,0,-9006.2,-372.9,1,0,-9006.2,-406.3,1,0,-9006.2,-439.6,1,0,-9006.2,-472.9,1,0,-9006.2,-506.3,1,0,-9022.9,-527.1,1,0,-9056.2,-527.1,1,0,-9089.6,-527.1,1,0,-9122.9,-527.1,1,0,-9135.4,-427.1,1,0,-9168.8,-393.8,1,0,-9127.1,-460.4,1,0,-9127.1,-493.8,1,0,-9168.8,-272.9,0,0,-9193.8,-268.8,2,0,-9193.8,-302.1,2,0,-9193.8,-335.4,2,0,-9193.8,-368.8,2,0}, {-9085.4,-410.4,-9189.6,-277.1,-9002.1,-268.8,-9010.4,-527.1,-9131.2,-518.8,-9197.9,-397.9}, items = {
         }},
-        {1, 60, 20, 1, 2, {-9764.6,702.1}, {-9368.8,860.4,9,0,-9402.1,860.4,9,0,-9435.4,860.4,9,0,-9468.8,860.4,9,0,-9502.1,860.4,9,0,-9372.9,827.1,9,0,-9372.9,793.7,9,0,-9372.9,760.4,9,0,-9372.9,727.1,9,0,-9372.9,693.7,9,0,-9372.9,660.4,9,0,-9372.9,627.1,9,0,-9739.6,681.2,19,1,-9535.4,860.4,0,0,-9568.8,860.4,0,0,-9639.6,564.6,0,0,-9502.1,572.9,0,0,-9535.4,572.9,0,0,-9568.8,572.9,0,0,-9602.1,572.9,0,0,-9647.9,539.6,0,0,-9681.2,539.6,0,0,-9714.6,539.6,0,0,-9752.1,539.6,0,0,-9406.2,597.9,18,0,-9368.8,606.2,18,0,-9414.6,572.9,18,0,-9506.2,597.9,16,0,-9435.4,606.2,16,0,-9468.8,606.2,16,0,-9427.1,572.9,16,0,-9939.6,531.2,11,0,-9768.8,539.6,11,0,-9802.1,539.6,11,0,-9835.4,539.6,11,0,-9877.1,539.6,11,0,-9947.9,506.2,11,0,-9981.2,506.2,11,0,-10014.6,506.2,11,0,-10047.9,506.2,11,0}, {-9764.6,702.1,-10189.6,618.7,-9368.8,864.6,-9402.1,572.9,-9947.9,502.1,-9589.6,852.1}, items = {
+        {1, 60, 20, 1, 2, {-9764.6,702.1}, {-9368.8,860.4,9,0,-9402.1,860.4,9,0,-9435.4,860.4,9,0,-9468.8,860.4,9,0,-9502.1,860.4,9,0,-9372.9,827.1,9,0,-9372.9,793.7,9,0,-9372.9,760.4,9,0,-9372.9,727.1,9,0,-9372.9,693.7,9,0,-9372.9,660.4,9,0,-9372.9,627.1,9,0,-9739.6,681.2,19,1,-9535.4,860.4,0,0,-9568.8,860.4,0,0,-9639.6,564.6,0,0,-9502.1,572.9,0,0,-9535.4,572.9,0,0,-9568.8,572.9,0,0,-9602.1,572.9,0,0,-9647.9,539.6,0,0,-9681.2,539.6,0,0,-9714.6,539.6,0,0,-9747.9,539.6,0,0,-9406.2,597.9,18,0,-9368.8,606.2,18,0,-9414.6,572.9,18,0,-9506.2,597.9,16,0,-9435.4,606.2,16,0,-9468.8,606.2,16,0,-9427.1,572.9,16,0,-9939.6,531.2,11,0,-9768.8,539.6,11,0,-9802.1,539.6,11,0,-9835.4,539.6,11,0,-9877.1,539.6,11,0,-9947.9,506.2,11,0,-9981.2,506.2,11,0,-10014.6,506.2,11,0,-10047.9,506.2,11,0}, {-9764.6,702.1,-10189.6,618.7,-9368.8,864.6,-9402.1,572.9,-9947.9,506.2,-9589.6,852.1}, items = {
             {"landmark", 21, 2, {-9747.9,689.6}},
             {"building", 22, 4, {-9802.9,704.6,-9805.2,699.0,-9798.6,715.5,-9796.6,712.8}},
         }},
@@ -78,112 +78,110 @@ addon.addPlaces({
         {1, 798, 48, 1, 4, {-9773.9,-1393.5,-9770.7,-1388.5,-9780.2,-1403.4,-9781.7,-1400.5}, {-9668.8,-1439.6,0,0,-9702.1,-1239.6,0,0,-9735.4,-1239.6,0,0,-9768.8,-1239.6,0,0,-9802.1,-1272.9,0,0,-9835.4,-1306.3,0,0,-9868.8,-1339.6,0,0,-9672.9,-1472.9,0,0,-9672.9,-1506.3,0,0,-9672.9,-1539.6,0,0,-9706.2,-1272.9,0,0,-9706.2,-1306.3,0,0,-9706.2,-1339.6,0,0,-9706.2,-1372.9,0,0,-9706.2,-1406.3,0,0,-9689.6,-1560.4,0,0,-9722.9,-1560.4,0,0,-9756.2,-1560.4,0,0,-9768.8,-1527.1,0,0,-9802.1,-1527.1,0,0,-9835.4,-1493.8,0,0,-9868.8,-1460.4,0,0,-9893.8,-1347.9,0,0,-9893.8,-1381.3,0,0,-9893.8,-1414.6,0,0,-9893.8,-1447.9,0,0}, {-9772.9,-1393.8,-9702.1,-1564.6,-9710.4,-1239.6,-9897.9,-1464.6,-9864.6,-1302.1,-9668.8,-1435.4}, items = {
             {"building", 49, 2, {-9793.8,-1256.3}},
         }},
-        {2, 0, 50, 0, 2, {-8639.6,752.1}, {-8568.8,781.2,23,0,-8589.6,752.1,23,0,-8618.8,756.2,23,0,-8635.4,777.1,23,0,-8668.8,777.1,23,0,-8631.2,814.6,23,0,-8702.1,768.7,33,0,-8518.8,747.9,33,0,-8581.2,689.6,33,0,-8622.9,677.1,33,0,-8647.9,702.1,33,0,-8689.6,810.4,33,0}, {-8639.6,752.1,-8606.2,881.2,-8514.6,747.9,-8672.9,831.2,-8577.1,693.7,-8560.4,797.9}, items = {
+        {2, 0, 50, 0, 2, {-8639.6,752.1}, {-8556.2,768.7,33,0,-8702.1,768.7,33,0,-8581.2,689.6,33,0,-8622.9,677.1,33,0,-8647.9,702.1,33,0,-8689.6,810.4,33,0,-8581.2,760.4,23,0,-8610.4,739.6,23,0,-8622.9,764.6,23,0,-8656.2,760.4,23,0,-8631.2,814.6,23,0,-8672.9,785.4,23,0}, {-8639.6,752.1,-8606.2,881.2,-8527.1,777.1,-8568.8,693.7,-8672.9,827.1,-8702.1,768.7}, items = {
             {"square", 51, 2, {-8639.6,752.1,-8527.1,777.1,-8543.8,797.9,-8556.2,797.9,-8631.2,835.4,-8643.8,697.9,-8685.4,806.2}},
             {"building", 52, 4, {-8555.9,734.8,-8559.6,739.5}},
             {"building", 53, 4, {-8625.8,875.6,-8622.1,870.9}},
-            {"building", 54, 4, {-8567.1,716.1,-8570.8,720.8}},
-            {"building", 55, 4, {-8610.6,740.3,-8614.3,745.0}},
+            {"building", 54, 4, {-8610.6,740.3,-8614.3,745.0}},
         }},
-        {2, 0, 56, 0, 4, {-8584.7,804.7,-8589.4,800.9}, {-8610.4,810.4,22,0,-8639.6,797.9,22,0,-8568.8,789.6,22,0,-8589.6,764.6,22,0,-8656.2,768.7,22,0,-8622.9,777.1,22,0,-8606.2,739.6,22,0}, {-8585.4,806.2,-8668.8,785.4,-8606.2,739.6,-8622.9,781.2,-8581.2,768.7,-8618.8,814.6}, items = {
-            {"building", 57, 4, {-8669.4,786.3,-8665.6,781.6}},
-            {"square", 58, 2, {-8610.4,789.6}},
+        {2, 0, 55, 0, 4, {-8584.7,804.7,-8589.4,800.9}, {-8610.4,810.4,22,0,-8639.6,797.9,22,0,-8585.4,772.9,22,0,-8656.2,768.7,22,0,-8610.4,747.9,22,0}, {-8585.4,806.2,-8668.8,785.4,-8606.2,739.6,-8622.9,781.2,-8581.2,768.7,-8618.8,814.6}, items = {
+            {"building", 56, 4, {-8669.4,786.3,-8665.6,781.6}},
+            {"square", 57, 2, {-8610.4,789.6}},
         }},
-        {2, 0, 59, 0, 4, {-8766.8,407.7,-8763.0,403.0}, {-8764.6,427.1,33,0,-8760.4,389.6,25,0,-8760.4,406.2,29,0,-8764.6,389.6,30,0}, {-8768.8,406.2,-8760.4,385.4,-8764.6,427.1,-8760.4,397.9,-8768.8,393.7,-8760.4,406.2}, items = {
+        {2, 0, 58, 0, 4, {-8766.8,407.7,-8763.0,403.0}, {-8760.4,389.6,25,0,-8764.6,389.6,30,0}, {-8768.8,406.2,-8760.4,385.4,-8760.4,397.9,-8768.8,393.7,-8756.2,389.6,-8764.6,389.6}, items = {
         }},
-        {2, 0, 60, 0, 2, {-8718.8,347.9}, {-8735.4,377.1,29,0,-8756.2,381.2,24,0,-8760.4,381.2,30,0}, {-8718.8,347.9,-8739.6,397.9,-8710.4,302.1,-8677.1,331.2,-8747.9,364.6,-8714.6,377.1}, items = {
-            {"square", 61, 2, {-8718.8,347.9}},
+        {2, 0, 59, 0, 2, {-8718.8,347.9}, {-8735.4,377.1,29,0,-8756.2,381.2,24,0,-8760.4,381.2,30,0}, {-8718.8,347.9,-8739.6,397.9,-8706.2,297.9,-8677.1,331.2,-8747.9,364.6,-8714.6,377.1}, items = {
+            {"square", 60, 2, {-8718.8,347.9}},
         }},
-        {2, 0, 62, 0, 4, {-8542.0,613.3,-8545.6,618.0,-8502.9,612.5,-8497.8,615.5}, {-8481.2,627.1,27,0}, {-8543.8,614.6,-8485.4,643.7,-8506.2,610.4,-8485.4,618.7,-8493.8,631.2,-8481.2,631.2}, items = {
+        {2, 0, 61, 0, 4, {-8542.0,613.3,-8545.6,618.0,-8502.9,612.5,-8497.8,615.5}, {-8481.2,627.1,27,0}, {-8543.8,614.6,-8485.4,643.7,-8506.2,610.4,-8485.4,618.7,-8493.8,631.2,-8481.2,631.2}, items = {
         }},
-        {2, 0, 63, 0, 2, {-8397.9,622.9}, {-8452.1,647.9,33,0,-8522.9,518.7,33,0,-8402.1,410.4,32,0,-8464.6,460.4,32,0,-8481.2,639.6,26,0}, {-8397.9,622.9,-8381.2,402.1,-8527.1,518.7,-8414.6,510.4,-8481.2,589.6,-8318.8,614.6}, items = {
-            {"building", 64, 4, {-8332.8,604.9,-8336.6,609.6}},
-            {"square", 65, 2, {-8397.9,622.9}},
-            {"building", 66, 4, {-8481.8,523.7,-8485.5,528.4}},
+        {2, 0, 62, 0, 2, {-8397.9,622.9}, {-8452.1,647.9,33,0,-8522.9,518.7,33,0,-8402.1,410.4,32,0,-8464.6,460.4,32,0,-8481.2,639.6,26,0}, {-8397.9,622.9,-8381.2,402.1,-8527.1,518.7,-8414.6,510.4,-8481.2,589.6,-8318.8,614.6}, items = {
+            {"building", 63, 4, {-8332.8,604.9,-8336.6,609.6}},
+            {"square", 64, 2, {-8397.9,622.9}},
+            {"building", 65, 4, {-8481.8,523.7,-8485.5,528.4}},
         }},
-        {2, 0, 67, 0, 2, {-8906.2,852.1}, {-8856.2,881.2,33,0,-8885.4,939.6,33,0,-8897.9,777.1,33,0,-8918.8,835.4,33,0,-8868.8,835.4,33,0,-8864.6,885.4,31,0,-8902.1,893.7,31,0,-8914.6,810.4,31,0,-8889.6,939.6,35,0,-8922.9,922.9,35,0,-8952.1,910.4,35,0,-8972.9,943.7,35,0,-9010.4,881.2,38,0,-8968.8,847.9,38,0,-8935.4,831.2,38,0}, {-8906.2,852.1,-9022.9,935.4,-8981.2,756.2,-8897.9,943.7,-8985.4,864.6,-8902.1,772.9}, items = {
-            {"building", 68, 4, {-8980.5,762.3,-8977.3,767.3}},
-            {"building", 69, 4, {-9005.2,942.9,-8999.7,940.5}},
-            {"building", 70, 4, {-8942.1,786.5,-8940.8,780.7}},
-            {"building", 71, 4, {-8947.6,889.9,-8952.9,887.0}},
-            {"building", 72, 4, {-8875.7,806.4,-8881.6,807.7}},
-            {"square", 73, 2, {-8906.2,852.1,-8968.8,881.2}},
-            {"square", 74, 2, {-8981.2,877.1}},
+        {2, 0, 66, 0, 2, {-8906.2,852.1}, {-8856.2,881.2,33,0,-8885.4,939.6,33,0,-8897.9,777.1,33,0,-8918.8,835.4,33,0,-8868.8,835.4,33,0,-8864.6,885.4,31,0,-8902.1,893.7,31,0,-8914.6,810.4,31,0,-8889.6,939.6,35,0,-8922.9,922.9,35,0,-8952.1,910.4,35,0,-8972.9,943.7,35,0,-9010.4,881.2,38,0,-8968.8,847.9,38,0,-8935.4,831.2,38,0}, {-8906.2,852.1,-9022.9,935.4,-8981.2,756.2,-8889.6,943.7,-8985.4,864.6,-8897.9,772.9}, items = {
+            {"building", 67, 4, {-8980.5,762.3,-8977.3,767.3}},
+            {"building", 68, 4, {-9005.2,942.9,-8999.7,940.5}},
+            {"building", 69, 4, {-8942.1,786.5,-8940.8,780.7}},
+            {"building", 70, 4, {-8947.6,889.9,-8952.9,887.0}},
+            {"building", 71, 4, {-8875.7,806.4,-8881.6,807.7}},
+            {"square", 72, 2, {-8906.2,852.1,-8968.8,881.2}},
+            {"square", 73, 2, {-8981.2,877.1}},
         }},
-        {2, 0, 75, 0, 2, {-8681.2,443.7}, {-8572.9,385.4,32,0,-8589.6,427.1,32,0,-8597.9,447.9,33,0,-8614.6,468.7,33,0,-8631.2,489.6,33,0,-8706.2,489.6,33,0,-8735.4,464.6,33,0,-8647.9,514.6,33,0,-8735.4,389.6,25,0,-8752.1,406.2,24,0}, {-8681.2,443.7,-8572.9,385.4,-8756.2,402.1,-8606.2,468.7,-8660.4,510.4,-8697.9,381.2}, items = {
-            {"building", 76, 4, {-8656.1,446.5,-8652.4,441.8}},
-            {"building", 77, 4, {-8670.6,393.0,-8666.8,388.3}},
-            {"building", 78, 4, {-8707.9,387.3,-8704.8,392.4}},
-            {"building", 79, 4, {-8634.7,415.5,-8638.5,420.2}},
-            {"building", 80, 4, {-8663.7,484.9,-8667.4,489.5}},
-            {"building", 81, 4, {-8666.1,437.8,-8669.8,442.5}},
-            {"building", 82, 4, {-8719.7,466.8,-8716.0,462.1}},
-            {"building", 83, 4, {-8666.9,505.6,-8665.7,511.5}},
-            {"square", 84, 2, {-8681.2,443.7,-8710.4,410.4}},
+        {2, 0, 74, 0, 2, {-8681.2,443.7}, {-8572.9,385.4,32,0,-8589.6,427.1,32,0,-8597.9,447.9,33,0,-8614.6,468.7,33,0,-8631.2,489.6,33,0,-8706.2,489.6,33,0,-8735.4,464.6,33,0,-8647.9,514.6,33,0,-8735.4,389.6,25,0}, {-8681.2,443.7,-8572.9,385.4,-8735.4,385.4,-8606.2,468.7,-8660.4,510.4,-8747.9,456.2}, items = {
+            {"building", 75, 4, {-8656.1,446.5,-8652.4,441.8}},
+            {"building", 76, 4, {-8670.6,393.0,-8666.8,388.3}},
+            {"building", 77, 4, {-8707.9,387.3,-8704.8,392.4}},
+            {"building", 78, 4, {-8634.7,415.5,-8638.5,420.2}},
+            {"building", 79, 4, {-8663.7,484.9,-8667.4,489.5}},
+            {"building", 80, 4, {-8666.1,437.8,-8669.8,442.5}},
+            {"building", 81, 4, {-8719.7,466.8,-8716.0,462.1}},
+            {"building", 82, 4, {-8666.9,505.6,-8665.7,511.5}},
+            {"square", 83, 2, {-8681.2,443.7,-8710.4,410.4}},
         }},
-        {2, 0, 85, 0, 2, {-8781.2,356.2}, {-8760.4,368.7,25,0,-8764.6,377.1,24,0}, {-8781.2,356.2,-8822.9,360.4,-8797.9,318.7,-8768.8,385.4,-8752.1,356.2,-8802.1,343.7}, items = {
-            {"square", 86, 2, {-8781.2,356.2}},
-            {"square", 87, 2, {-8802.1,364.6}},
+        {2, 0, 84, 0, 2, {-8781.2,356.2}, {-8760.4,368.7,25,0,-8764.6,377.1,24,0}, {-8781.2,356.2,-8818.8,368.7,-8802.1,322.9,-8768.8,385.4,-8752.1,356.2,-8806.2,347.9}, items = {
+            {"square", 85, 2, {-8781.2,356.2}},
+            {"square", 86, 2, {-8802.1,364.6}},
         }},
-        {2, 17203, 88, 0, 2, {-8222.9,927.1}, {-8181.2,918.7,0,0,-8585.4,960.4,33,0,-8602.1,981.2,33,0,-8631.2,993.7,33,0,-8660.4,997.9,33,0,-8802.1,710.4,33,0,-8468.8,1043.7,33,0,-8593.8,1077.1,33,0,-8868.8,893.7,33,0,-8456.2,964.6,33,0,-8485.4,985.4,33,0,-8564.6,1068.7,33,0,-8652.1,947.9,33,0,-8677.1,972.9,33,0,-8664.6,997.9,34,0,-8864.6,893.7,28,0,-8902.1,885.4,28,0,-8910.4,818.7,28,0}, {-8222.9,927.1,-8927.1,818.7,-8793.8,1239.6,-8593.8,952.1,-8397.9,1114.6,-8585.4,1143.7}, items = {
-            {"square", 89, 2, {-8106.2,1160.4,-8168.8,1252.1,-8252.1,1222.9,-8360.4,1177.1,-8418.8,1172.9,-8522.9,1185.4}},
-            {"landmark", 90, 2, {-8422.9,1114.6,-8435.4,1097.9,-8447.9,1114.6}},
-            {"building", 91, 2, {-8068.8,1643.7}},
-            {"building", 92, 2, {-8056.2,1314.6,-8085.4,1331.2,-8089.6,1264.6,-8106.2,1352.1,-8122.9,1285.4,-8135.4,1310.4}},
-            {"square", 93, 2, {-8222.9,927.1,-8256.2,981.2,-8310.4,1056.2,-8406.2,1035.4,-8397.9,1114.6,-8447.9,977.1}},
+        {2, 17203, 87, 0, 2, {-8189.6,927.1}, {-8181.2,914.6,0,0,-8585.4,960.4,33,0,-8602.1,981.2,33,0,-8631.2,993.7,33,0,-8660.4,997.9,33,0,-8802.1,710.4,33,0,-8868.8,893.7,33,0,-8456.2,964.6,33,0,-8485.4,985.4,33,0,-8564.6,1068.7,33,0,-8602.1,1081.2,33,0,-8652.1,947.9,33,0,-8677.1,972.9,33,0,-8664.6,997.9,34,0,-8864.6,893.7,28,0,-8902.1,885.4,28,0,-8910.4,818.7,28,0}, {-8189.6,927.1,-8927.1,818.7,-8606.2,1122.9,-8347.9,1106.2,-8818.8,1222.9,-8643.8,935.4}, items = {
+            {"square", 88, 2, {-8106.2,1160.4,-8477.1,1243.7,-8364.6,1172.9,-8410.4,1168.7,-8522.9,1185.4}},
+            {"building", 89, 2, {-8068.8,1643.7}},
+            {"building", 90, 2, {-8056.2,1314.6,-8085.4,1331.2,-8089.6,1264.6,-8106.2,1352.1,-8122.9,1285.4,-8135.4,1310.4}},
+            {"square", 91, 2, {-8189.6,927.1,-8256.2,981.2,-8310.4,1056.2,-8306.2,1097.9,-8352.1,1077.1,-8402.1,1031.2,-8397.9,1114.6,-8447.9,977.1}},
         }},
-        {2, 0, 94, 0, 2, {-8543.8,464.6}, {-8402.1,402.1,27,0,-8464.6,452.1,27,0,-8568.8,468.7,33,0,-8593.8,447.9,33,0,-8572.9,393.7,29,0,-8589.6,435.4,29,0}, {-8543.8,464.6,-8402.1,402.1,-8531.2,331.2,-8464.6,452.1,-8572.9,393.7,-8506.2,389.6}, items = {
-            {"building", 98, 4, {-8533.3,448.7,-8537.0,453.4}, rooms = {
-                {"room", 95, 4, {-8535.2,384.0,-8530.5,387.7}},
-                {"room", 96, 4, {-8350.0,510.0,-8354.7,506.3}},
-                {"room", 97, 4, {-8409.5,293.0,-8413.2,297.7}},
+        {2, 0, 92, 0, 2, {-8543.8,464.6}, {-8402.1,402.1,27,0,-8464.6,452.1,27,0,-8568.8,468.7,33,0,-8593.8,447.9,33,0,-8572.9,393.7,29,0,-8589.6,435.4,29,0}, {-8543.8,464.6,-8402.1,402.1,-8531.2,331.2,-8464.6,452.1,-8572.9,393.7,-8506.2,389.6}, items = {
+            {"building", 96, 4, {-8533.3,448.7,-8537.0,453.4}, rooms = {
+                {"room", 93, 4, {-8535.2,384.0,-8530.5,387.7}},
+                {"room", 94, 4, {-8350.0,510.0,-8354.7,506.3}},
+                {"room", 95, 4, {-8409.5,293.0,-8413.2,297.7}},
             }},
-            {"square", 99, 2, {-8543.8,464.6}},
+            {"square", 97, 2, {-8543.8,464.6}},
         }},
-        {2, 0, 100, 0, 2, {-8477.1,952.1}, {-8456.2,952.1,31,0,-8485.4,977.1,31,0,-8564.6,1064.6,31,0,-8593.8,1068.7,31,0,-8652.1,939.6,31,0,-8677.1,960.4,31,0,-8814.6,714.6,31,0,-8585.4,972.9,31,0,-8631.2,1002.1,31,0,-8460.4,1043.7,31,0,-8856.2,893.7,31,0,-8514.6,739.6,22,0,-8568.8,685.4,22,0,-8602.1,672.9,22,0,-8647.9,693.7,22,0,-8697.9,756.2,22,0,-8697.9,810.4,22,0,-8522.9,510.4,27,0,-8481.2,656.2,27,0,-8660.4,1072.9,34,0,-8685.4,968.7,34,0,-8722.9,922.9,34,0,-8785.4,947.9,34,0,-8664.6,1018.7,34,0,-8743.8,622.9,36,0,-8747.9,585.4,36,0,-8777.1,560.4,36,0,-8802.1,527.1,36,0,-8889.6,768.7,28,0,-8927.1,839.6,28,0,-8856.2,893.7,28,0,-8885.4,947.9,28,0,-8856.2,835.4,28,0,-8585.4,472.9,32,0,-8714.6,493.7,29,0,-8743.8,468.7,29,0,-8597.9,460.4,29,0,-8622.9,489.6,29,0,-8643.8,518.7,29,0,-8764.6,431.2,24,0,-8997.9,377.1,37,0,-8885.4,960.4,35,0}, {-8477.1,952.1,-8997.9,347.9,-8927.1,835.4,-8539.6,506.2,-8797.9,539.6,-8693.8,810.4}, items = {
-            {"building", 101, 4, {-8767.0,716.0,-8762.5,720.1}},
-            {"building", 102, 4, {-8822.6,512.2,-8818.9,507.5}},
-            {"building", 103, 4, {-8888.7,688.1,-8892.1,693.0}},
-            {"building", 104, 4, {-8701.4,852.9,-8697.6,848.2}},
-            {"building", 105, 4, {-8803.2,815.7,-8807.9,811.9,-8798.2,859.3,-8802.0,864.0}},
-            {"square", 106, 2, {-8477.1,952.1,-8460.4,1043.7,-8531.2,1039.6,-8506.2,964.6,-8560.4,956.2,-8652.1,902.1,-8718.8,743.7,-8752.1,893.7,-8743.8,706.2,-8793.8,752.1,-8772.9,468.7,-8802.1,502.1,-8839.6,843.7,-8831.2,972.9,-8843.8,731.2,-8852.1,714.6}},
-            {"square", 107, 2, {-8993.8,372.9}},
+        {2, 0, 98, 0, 2, {-8477.1,952.1}, {-8439.6,660.4,27,0,-8522.9,510.4,27,0,-8481.2,656.2,27,0,-8456.2,952.1,31,0,-8485.4,977.1,31,0,-8564.6,1064.6,31,0,-8602.1,1077.1,31,0,-8652.1,939.6,31,0,-8677.1,960.4,31,0,-8814.6,714.6,31,0,-8585.4,972.9,31,0,-8631.2,1002.1,31,0,-8856.2,893.7,31,0,-8556.2,777.1,22,0,-8568.8,685.4,22,0,-8602.1,672.9,22,0,-8647.9,693.7,22,0,-8697.9,756.2,22,0,-8697.9,810.4,22,0,-8660.4,1072.9,34,0,-8685.4,968.7,34,0,-8722.9,922.9,34,0,-8785.4,947.9,34,0,-8664.6,1018.7,34,0,-8743.8,622.9,36,0,-8747.9,585.4,36,0,-8777.1,560.4,36,0,-8802.1,527.1,36,0,-8889.6,768.7,28,0,-8927.1,839.6,28,0,-8856.2,893.7,28,0,-8885.4,947.9,28,0,-8856.2,835.4,28,0,-8993.8,377.1,37,0,-8585.4,472.9,32,0,-8714.6,493.7,29,0,-8743.8,468.7,29,0,-8597.9,460.4,29,0,-8622.9,489.6,29,0,-8643.8,518.7,29,0,-8885.4,960.4,35,0}, {-8477.1,952.1,-8997.9,347.9,-8927.1,835.4,-8560.4,506.2,-8693.8,735.4,-8806.2,506.2}, items = {
+            {"building", 99, 4, {-8767.0,716.0,-8762.5,720.1}},
+            {"building", 100, 4, {-8822.6,512.2,-8818.9,507.5}},
+            {"building", 101, 4, {-8888.7,688.1,-8892.1,693.0}},
+            {"building", 102, 4, {-8567.1,716.1,-8570.8,720.8}},
+            {"building", 103, 4, {-8701.4,852.9,-8697.6,848.2}},
+            {"building", 104, 4, {-8803.2,815.7,-8807.9,811.9,-8798.2,859.3,-8802.0,864.0}},
+            {"square", 105, 2, {-8477.1,952.1,-8531.2,1039.6,-8506.2,964.6,-8560.4,956.2,-8652.1,902.1,-8718.8,743.7,-8752.1,893.7,-8743.8,706.2,-8793.8,752.1,-8772.9,468.7,-8802.1,502.1,-8839.6,843.7,-8831.2,972.9,-8843.8,731.2,-8852.1,714.6}},
         }},
-        {2, 0, 108, 0, 2, {-8793.8,1114.6}, {-8664.6,1006.2,33,0,-8806.2,947.9,33,0,-8668.8,1077.1,33,0,-8681.2,1047.9,33,0,-8693.8,972.9,33,0,-8727.1,931.2,33,0,-8672.9,1002.1,31,0}, {-8793.8,1114.6,-8727.1,931.2,-8660.4,1081.2,-8718.8,1189.6,-8752.1,1027.1,-8672.9,997.9}, items = {
-            {"square", 109, 2, {-8793.8,1114.6}},
-            {"building", 110, 4, {-8715.0,1064.7,-8719.3,1068.9,-8817.9,1090.9,-8812.1,1092.7}},
-            {"square", 111, 2, {-8735.4,968.7}},
+        {2, 0, 106, 0, 2, {-8793.8,1114.6}, {-8664.6,1006.2,33,0,-8806.2,947.9,33,0,-8668.8,1077.1,33,0,-8681.2,1047.9,33,0,-8693.8,972.9,33,0,-8727.1,931.2,33,0,-8672.9,1002.1,31,0}, {-8793.8,1114.6,-8727.1,931.2,-8660.4,1081.2,-8718.8,1189.6,-8752.1,1027.1,-8672.9,997.9}, items = {
+            {"square", 107, 2, {-8793.8,1114.6}},
+            {"building", 108, 4, {-8715.0,1064.7,-8719.3,1068.9,-8817.9,1090.9,-8812.1,1092.7}},
+            {"square", 109, 2, {-8735.4,968.7}},
         }},
-        {2, 0, 112, 0, 4, {-8945.9,992.2,-8942.2,987.5}, {-8893.8,960.4,33,0,-8902.1,943.7,28,0,-8931.2,927.1,28,0,-8964.6,931.2,28,0}, {-8947.9,993.7,-8935.4,918.7,-8885.4,972.9,-9002.1,1018.7,-8968.8,952.1,-8922.9,960.4}, items = {
-            {"building", 113, 4, {-8891.0,976.0,-8897.0,975.7}},
-            {"square", 114, 2, {-8943.8,960.4}},
+        {2, 0, 110, 0, 4, {-8945.9,992.2,-8942.2,987.5}, {-8893.8,960.4,33,0,-8902.1,943.7,28,0,-8931.2,927.1,28,0,-8964.6,931.2,28,0}, {-8947.9,993.7,-8935.4,918.7,-8885.4,972.9,-9002.1,1018.7,-8968.8,952.1,-8922.9,960.4}, items = {
+            {"building", 111, 4, {-8891.0,976.0,-8897.0,975.7}},
+            {"square", 112, 2, {-8943.8,960.4}},
         }},
-        {2, 0, 115, 0, 2, {-8877.1,585.4}, {-8743.8,631.2,33,0,-8752.1,597.9,33,0,-8772.9,572.9,33,0,-8802.1,547.9,33,0}, {-8877.1,585.4,-8997.9,468.7,-8752.1,660.4,-8977.1,568.7,-8781.2,560.4,-8902.1,493.7}, items = {
-            {"building", 116, 4, {-8827.7,605.1,-8832.6,608.6}},
-            {"building", 117, 4, {-8780.3,637.6,-8786.1,635.9}},
-            {"building", 118, 4, {-8861.5,623.3,-8859.2,617.7}},
-            {"building", 119, 4, {-8893.3,635.6,-8888.0,638.5}},
-            {"building", 120, 4, {-8888.7,604.4,-8885.8,599.1}},
-            {"building", 121, 4, {-8797.4,693.5,-8796.8,699.5}},
-            {"building", 122, 4, {-8864.0,667.3,-8860.6,662.4}},
-            {"building", 123, 4, {-8856.2,576.8,-8851.9,572.6}},
-            {"building", 124, 4, {-8797.9,621.4,-8794.2,616.7}},
-            {"building", 125, 4, {-8806.6,658.8,-8807.8,652.9}},
-            {"building", 126, 4, {-8860.8,536.3,-8855.1,538.1}},
-            {"square", 127, 2, {-8877.1,585.4,-8902.1,506.2,-8918.8,485.4,-8960.4,568.7,-8964.6,493.7,-8981.2,518.7,-8993.8,472.9,-9010.4,493.7}},
-            {"square", 128, 2, {-8760.4,647.9,-8777.1,656.2,-8797.9,677.1,-8802.1,656.2}},
+        {2, 0, 113, 0, 2, {-8877.1,585.4}, {-8743.8,631.2,33,0,-8752.1,597.9,33,0,-8772.9,572.9,33,0,-8802.1,547.9,33,0}, {-8877.1,585.4,-8997.9,468.7,-8752.1,660.4,-8981.2,568.7,-8781.2,564.6,-8902.1,489.6}, items = {
+            {"building", 114, 4, {-8827.7,605.1,-8832.6,608.6}},
+            {"building", 115, 4, {-8780.3,637.6,-8786.1,635.9}},
+            {"building", 116, 4, {-8861.5,623.3,-8859.2,617.7}},
+            {"building", 117, 4, {-8893.3,635.6,-8888.0,638.5}},
+            {"building", 118, 4, {-8888.7,604.4,-8885.8,599.1}},
+            {"building", 119, 4, {-8797.4,693.5,-8796.8,699.5}},
+            {"building", 120, 4, {-8864.0,667.3,-8860.6,662.4}},
+            {"building", 121, 4, {-8856.2,576.8,-8851.9,572.6}},
+            {"building", 122, 4, {-8797.9,621.4,-8794.2,616.7}},
+            {"building", 123, 4, {-8806.6,658.8,-8807.8,652.9}},
+            {"building", 124, 4, {-8860.8,536.3,-8855.1,538.1}},
+            {"square", 125, 2, {-8877.1,585.4,-8902.1,506.2,-8918.8,485.4,-8960.4,568.7,-8964.6,493.7,-8981.2,518.7,-8993.8,472.9,-9010.4,493.7}},
+            {"square", 126, 2, {-8760.4,647.9,-8777.1,656.2,-8797.9,677.1,-8802.1,656.2}},
         }},
-        {2, 1617, 129, 1, 2, {-9064.6,439.6}, {-8997.9,368.7,33,0,-9139.6,539.6,0,0,-9160.4,560.4,0,0,-9164.6,518.7,0,0,-9060.4,397.9,0,0,-9102.1,422.9,0,0,-9135.4,493.7,0,0}, {-9064.6,439.6,-9168.8,568.7,-8997.9,368.7,-9135.4,489.6,-9006.2,431.2,-9052.1,389.6}, items = {
-            {"square", 130, 2, {-9064.6,439.6}},
+        {2, 1617, 127, 1, 2, {-9064.6,439.6}, {-8993.8,364.6,33,0,-9139.6,539.6,0,0,-9164.6,518.7,0,0,-9168.8,564.6,0,0,-9060.4,397.9,0,0,-9102.1,422.9,0,0,-9135.4,493.7,0,0}, {-9064.6,439.6,-9168.8,568.7,-8993.8,364.6,-9135.4,489.6,-8997.9,418.7,-9052.1,389.6}, items = {
+            {"square", 128, 2, {-9064.6,439.6}},
         }},
-        {2, 0, 131, 0, 4, {-9004.1,867.4,-9000.4,862.7}, {-8935.4,822.9,28,0,-8956.2,843.7,28,0,-8985.4,852.1,28,0,-9002.1,877.1,28,0,-9027.1,902.1,28,0}, {-9002.1,868.7,-8935.4,822.9,-8993.8,810.4,-9056.2,852.1,-9027.1,902.1,-9022.9,835.4}, items = {
-            {"building", 132, 4, {-8971.6,818.1,-8975.2,822.9}},
-            {"building", 133, 4, {-9046.3,843.9,-9040.7,846.2}},
-            {"square", 134, 2, {-9018.8,839.6,-9027.1,897.9}},
-            {"square", 135, 2, {-9018.8,860.4}},
+        {2, 0, 129, 0, 4, {-9004.1,867.4,-9000.4,862.7}, {-8935.4,822.9,28,0,-8956.2,843.7,28,0,-8985.4,852.1,28,0,-9002.1,877.1,28,0,-9027.1,902.1,28,0}, {-9002.1,868.7,-8935.4,822.9,-8993.8,810.4,-9056.2,852.1,-9027.1,902.1,-9022.9,835.4}, items = {
+            {"building", 130, 4, {-8971.6,818.1,-8975.2,822.9}},
+            {"building", 131, 4, {-9046.3,843.9,-9040.7,846.2}},
+            {"square", 132, 2, {-9018.8,839.6,-9027.1,897.9}},
+            {"square", 133, 2, {-9018.8,860.4}},
         }},
     },
-    names_enUS = {"Elwynn Forest", "animal den", "signpost", "well", "Stormwind City", "Northshire Valley", "Hall of Arms", "Library Wing", "Main Hall", "Northshire Abbey", "forge", "stable", "Crystal Lake", "animal den", "Echo Ridge Mine", "Jasperlode Mine", "Heroes' Vigil", "Fargodeep Mine", "Northshire Vineyards", "Forest's Edge", "signpost", "tower of Forest's Edge", "Thunder Falls", "Brackwell Pumpkin Patch", "well", "The Stonefield Farm", "stable", "well", "The Maclure Vineyards", "well", "Stone Cairn Lake", "animal den", "Goldshire", "Lion's Pride Inn", "signpost", "smithy", "Eastvale Logging Camp", "lumber mill", "stable", "well", "Mirror Lake Orchard", "well", "Tower of Azora", "Mirror Lake", "Westbrook Garrison", "statue", "Jerod's Landing", "Ridgepoint Tower", "animal den", "Cathedral Square", "Cathedral Square", "City Hall", "Just Maces", "The Argent Dawn", "orphanage", "Cathedral of Light", "Righteous Plates", "square of Cathedral of Light", "Champion's Hall", "Command Center", "square of Command Center", "Cut-Throat Alley", "Dwarven District", "bank", "square of Dwarven District", "tavern of Dwarven District", "Mage Quarter", "Alchemy Needs", "Ancient Curios", "Duncan's Textiles", "Essential Components", "Stormwind Staves", "square of Mage Quarter", "upper square of Mage Quarter", "Old Town", "Heavy Handed Weapons", "Honest Blades", "Limited Immunity", "Pig and Whistle Tavern", "Thane's Boots", "The Five Deadly Venoms", "The Protective Hide", "The Silver Shield", "square of Old Town", "SI:7", "square of SI:7", "upper square of SI:7", "Stormwind Harbor", "dock of Stormwind Harbor", "forge", "lighthouse", "shipwreck", "square of Stormwind Harbor", "Stormwind Keep", "Petitioner's Chamber", "Royal Gallery", "War Room", "Royal Library", "square of Stormwind Keep", "The Canals", "Canal Tailor and Fit Shop", "Fragrant Flowers", "Gallina Winery", "The Finest Thread", "jail", "square of The Canals", "square of Valley of Heroes", "The Park", "square of The Park", "tavern of The Park", "upper square of The Park", "The Slaughtered Lamb", "Pyrotechnics", "square of The Slaughtered Lamb", "Trade District", "Everyday Merchandise", "Lionheart Armory", "Pestle's Apothecary", "Stormwind Counting House", "Stormwind Visitor's Center", "The Empty Quiver", "The Gilded Rose", "Trias' Cheese", "Weller's Arsenal", "auction house", "griffon roost", "square of Trade District", "upper square of Trade District", "Valley of Heroes", "square of Valley of Heroes", "Wizard's Sanctum", "Larson Clothiers", "The Blue Recluse", "square of Wizard's Sanctum", "upper square of Mage Quarter"},
-    names_deDE = {"Wald von Elwynn", "Tierbau", "Wegweiser", "Brunnen", "Stormwind", "Nordhaintal", "Die Halle der Waffen", "Der Bibliotheksflügel", "Die Haupthalle", "Abtei von Nordhain", "Esse", "Stall", "Kristallsee", "Tierbau", "Echokammmine", "Jaspismine", "Heldenwache", "Tiefenschachtmine", "Weinberge von Nordhain", "Der Waldrand", "Wegweiser", "Turm bei Der Waldrand", "Donnerfälle", "Brackwells Kürbisbeet", "Brunnen", "Hof der Stonefields", "Stall", "Brunnen", "Weinberge der Maclures", "Brunnen", "Der Steinhügelsee", "Tierbau", "Goldhain", "Gasthaus Zur Höhle des Löwen", "Wegweiser", "Schmiede", "Holzfällerlager des Osttals", "Sägewerk", "Stall", "Brunnen", "Obsthain am Spiegelsee", "Brunnen", "Turm von Azora", "Spiegelsee", "Weststromgarnison", "Statue", "Jerods Anlegestelle", "Kammwacht", "Tierbau", "Der Kathedralenplatz", "Der Kathedralenplatz", "Rathaus", "Nur Streitkolben", "Die Argentumdämmerung", "Waisenhaus", "Die Kathedrale des Lichts", "Perfekte Platten", "Platz, Die Kathedrale des Lichts", "Die Halle des Champions", "Die Kommandozentrale", "Platz, Die Kommandozentrale", "Die Halsabschneidergasse", "Der Zwergendistrikt", "Bank", "Platz, Der Zwergendistrikt", "Taverne, Der Zwergendistrikt", "Das Magierviertel", "Alchemiebedarf", "Antike Kuriositäten", "Duncans Textilien", "Unverzichtbare Komponenten", "Sturmwindstäbe", "Platz, Das Magierviertel", "oberer Platz, Das Magierviertel", "Die Altstadt", "Schön schwere Waffen", "Ehrliche Klingen", "Begrenzte Immunität", "Taverne \"Zum Pfeifenden Schwein\"", "Stiefel des Thans", "Die Fünf Tödlichen Gifte", "Der schützende Balg", "Der Silberschild", "Platz, Die Altstadt", "SI:7", "Platz, SI:7", "oberer Platz, SI:7", "Hafen von Stormwind", "Dock, Hafen von Stormwind", "Esse", "Leuchtturm", "Schiffswrack", "Platz, Hafen von Stormwind", "Burg Stormwind", "Der Bittstellerraum", "Die Königliche Galerie", "Der Kriegsraum", "Die Königliche Bibliothek", "Platz, Burg Stormwind", "Die Kanäle", "Schneiderei und Ausstatterei am Kanal", "Duftende Blumen", "Weingut Gallina", "Das feinste Band", "Gefängnis", "Platz, Die Kanäle", "Platz, Das Tal der Helden", "Der Park", "Platz, Der Park", "Taverne, Der Park", "oberer Platz, Der Park", "Zum Geschlachteten Lamm", "Feuerwerk", "Platz, Zum Geschlachteten Lamm", "Der Handelsdistrikt", "Alltäglicher Bedarf", "Löwenherzrüstkammer", "Pestles Apotheke", "Zählhaus von Sturmwind", "Besucherzentrum von Sturmwind", "Der leere Köcher", "Die Güldene Rose", "Trias' Käse", "Wellers Arsenal", "Auktionshaus", "Greifenhorst", "Platz, Der Handelsdistrikt", "oberer Platz, Der Handelsdistrikt", "Das Tal der Helden", "Platz, Das Tal der Helden", "Das Magiersanktum", "Konfektionsgeschäft Larson", "Zum Blauen Eremiten", "Platz, Das Magiersanktum", "oberer Platz, Das Magierviertel"},
-    names_frFR = {"Forêt d'Elwynn", "tanière", "panneau indicateur", "puits", "Hurlevent", "Vallée de Comté-du-Nord", "Salle d’armes", "Aile de la bibliothèque", "Grand hall", "Abbaye de Northshire", "forge", "l'écurie", "Lac de Cristal", "tanière", "Mine de la crête aux échos", "Mine Veine-de-jaspe", "Veillée des héros", "Mine de Fargodeep", "Vignoble de Comté-du-Nord", "La Lisière", "panneau indicateur", "tour de la Lisière", "Chutes du Tonnerre", "Champ de potirons des Brackwell", "puits", "La ferme des Stonefield", "l'écurie", "puits", "Les Vignes des Maclure", "puits", "Lac du Cairn", "tanière", "Comté-de-l’Or", "Auberge de la Fierté du Lion", "panneau indicateur", "forge", "Camp de bûcherons du Val d'est", "scierie", "l'écurie", "puits", "Verger du lac Miroir", "puits", "Tour d'Azora", "Lac Miroir", "Garnison du ruisseau de l'ouest", "statue", "Le Débarcadère de Jerod", "Tour de la Crête", "tanière", "Place de la Cathédrale", "Place de la Cathédrale", "Hôtel de ville", "Massues méritées", "L'Aube d'argent", "orphelinat", "Cathédrale de la Lumière", "Armures de plaque vertueuses", "place, Cathédrale de la Lumière", "Hall des champions", "Centre de commandement", "place, Centre de commandement", "Ruelle du Coupe-gorge", "Quartier des Nains", "banque", "place, Quartier des Nains", "taverne, Quartier des Nains", "Quartier des Mages", "Tout pour l'alchimiste", "Bibelot antique", "Textiles Duncan", "Composants essentiels", "Bâtons de Hurlevent", "place, Quartier des Mages", "place haute, Quartier des Mages", "Vieille ville", "Armes lourdes", "Lames loyales", "Immunité limitée", "Taverne du Cochon siffleur", "Bottes de Thane", "Les cinq venins mortels", "Au cuir protecteur", "Le Bouclier d'Argent", "place, Vieille ville", "SI:7", "place, SI:7", "place haute, SI:7", "Port de Hurlevent", "embarcadère, Port de Hurlevent", "forge", "phare", "l'épave", "place, Port de Hurlevent", "Donjon de Hurlevent", "Chambre du Requérant", "Galerie royale", "Salle de guerre", "Bibliothèque royale", "place, Donjon de Hurlevent", "Les canaux", "Tailleur et équipementier du canal", "Fleurs parfumées", "Vignoble de Gallina", "Le Fil le plus fin", "prison", "place, Les canaux", "place, Vallée des Héros", "Le Parc", "place, Le Parc", "taverne, Le Parc", "place haute, Le Parc", "L’Agneau assassiné", "Pyrotechnie", "place, L’Agneau assassiné", "Quartier commerçant", "Marchandise quotidienne", "Armurerie Cœur de Lion", "Apothicaires Pilon", "Salle des dépôts de Hurlevent", "Centre d'accueil des visiteurs de Hurlevent", "Le Carquois vide", "La Rose dorée", "Fromages de Trias", "Arsenal de Weller", "hôtel des ventes", "nid des griffons", "place, Quartier commerçant", "place haute, Quartier commerçant", "Vallée des héros", "place, Vallée des Héros", "Sanctuaire du sorcier", "Couturiers Larson", "Le Solitaire bleu", "place, Sanctuaire du sorcier", "place haute, Quartier des Mages"},
+    names_enUS = {"Elwynn Forest", "animal den", "signpost", "well", "Stormwind City", "Northshire Valley", "Hall of Arms", "Library Wing", "Main Hall", "Northshire Abbey", "forge", "stable", "Crystal Lake", "animal den", "Echo Ridge Mine", "Jasperlode Mine", "Heroes' Vigil", "Fargodeep Mine", "Northshire Vineyards", "Forest's Edge", "signpost", "tower of Forest's Edge", "Thunder Falls", "Brackwell Pumpkin Patch", "well", "The Stonefield Farm", "stable", "well", "The Maclure Vineyards", "well", "Stone Cairn Lake", "animal den", "Goldshire", "Lion's Pride Inn", "signpost", "smithy", "Eastvale Logging Camp", "lumber mill", "stable", "well", "Mirror Lake Orchard", "well", "Tower of Azora", "Mirror Lake", "Westbrook Garrison", "statue", "Jerod's Landing", "Ridgepoint Tower", "animal den", "Cathedral Square", "Cathedral Square", "City Hall", "Just Maces", "orphanage", "Cathedral of Light", "Righteous Plates", "square of Cathedral of Light", "Champion's Hall", "Command Center", "square of Command Center", "Cut-Throat Alley", "Dwarven District", "bank", "square of Dwarven District", "tavern of Dwarven District", "Mage Quarter", "Alchemy Needs", "Ancient Curios", "Duncan's Textiles", "Essential Components", "Stormwind Staves", "square of Mage Quarter", "upper square of Mage Quarter", "Old Town", "Heavy Handed Weapons", "Honest Blades", "Limited Immunity", "Pig and Whistle Tavern", "Thane's Boots", "The Five Deadly Venoms", "The Protective Hide", "The Silver Shield", "square of Old Town", "SI:7", "square of SI:7", "upper square of SI:7", "Stormwind Harbor", "dock of Stormwind Harbor", "lighthouse", "shipwreck", "square of Stormwind Harbor", "Stormwind Keep", "Petitioner's Chamber", "Royal Gallery", "War Room", "Royal Library", "square of Stormwind Keep", "The Canals", "Canal Tailor and Fit Shop", "Fragrant Flowers", "Gallina Winery", "The Argent Dawn", "The Finest Thread", "jail", "square of The Canals", "The Park", "square of The Park", "tavern of The Park", "upper square of The Park", "The Slaughtered Lamb", "Pyrotechnics", "square of The Slaughtered Lamb", "Trade District", "Everyday Merchandise", "Lionheart Armory", "Pestle's Apothecary", "Stormwind Counting House", "Stormwind Visitor's Center", "The Empty Quiver", "The Gilded Rose", "Trias' Cheese", "Weller's Arsenal", "auction house", "griffon roost", "square of Trade District", "upper square of Trade District", "Valley of Heroes", "square of Valley of Heroes", "Wizard's Sanctum", "Larson Clothiers", "The Blue Recluse", "square of Wizard's Sanctum", "upper square of Mage Quarter"},
+    names_deDE = {"Wald von Elwynn", "Tierbau", "Wegweiser", "Brunnen", "Stormwind", "Nordhaintal", "Die Halle der Waffen", "Der Bibliotheksflügel", "Die Haupthalle", "Abtei von Nordhain", "Esse", "Stall", "Kristallsee", "Tierbau", "Echokammmine", "Jaspismine", "Heldenwache", "Tiefenschachtmine", "Weinberge von Nordhain", "Der Waldrand", "Wegweiser", "Turm bei Der Waldrand", "Donnerfälle", "Brackwells Kürbisbeet", "Brunnen", "Hof der Stonefields", "Stall", "Brunnen", "Weinberge der Maclures", "Brunnen", "Der Steinhügelsee", "Tierbau", "Goldhain", "Gasthaus Zur Höhle des Löwen", "Wegweiser", "Schmiede", "Holzfällerlager des Osttals", "Sägewerk", "Stall", "Brunnen", "Obsthain am Spiegelsee", "Brunnen", "Turm von Azora", "Spiegelsee", "Weststromgarnison", "Statue", "Jerods Anlegestelle", "Kammwacht", "Tierbau", "Der Kathedralenplatz", "Der Kathedralenplatz", "Rathaus", "Nur Streitkolben", "Waisenhaus", "Die Kathedrale des Lichts", "Perfekte Platten", "Platz, Die Kathedrale des Lichts", "Die Halle des Champions", "Die Kommandozentrale", "Platz, Die Kommandozentrale", "Die Halsabschneidergasse", "Der Zwergendistrikt", "Bank", "Platz, Der Zwergendistrikt", "Taverne, Der Zwergendistrikt", "Das Magierviertel", "Alchemiebedarf", "Antike Kuriositäten", "Duncans Textilien", "Unverzichtbare Komponenten", "Sturmwindstäbe", "Platz, Das Magierviertel", "oberer Platz, Das Magierviertel", "Die Altstadt", "Schön schwere Waffen", "Ehrliche Klingen", "Begrenzte Immunität", "Taverne \"Zum Pfeifenden Schwein\"", "Stiefel des Thans", "Die Fünf Tödlichen Gifte", "Der schützende Balg", "Der Silberschild", "Platz, Die Altstadt", "SI:7", "Platz, SI:7", "oberer Platz, SI:7", "Hafen von Stormwind", "Dock, Hafen von Stormwind", "Leuchtturm", "Schiffswrack", "Platz, Hafen von Stormwind", "Burg Stormwind", "Der Bittstellerraum", "Die Königliche Galerie", "Der Kriegsraum", "Die Königliche Bibliothek", "Platz, Burg Stormwind", "Die Kanäle", "Schneiderei und Ausstatterei am Kanal", "Duftende Blumen", "Weingut Gallina", "Die Argentumdämmerung", "Das feinste Band", "Gefängnis", "Platz, Die Kanäle", "Der Park", "Platz, Der Park", "Taverne, Der Park", "oberer Platz, Der Park", "Zum Geschlachteten Lamm", "Feuerwerk", "Platz, Zum Geschlachteten Lamm", "Der Handelsdistrikt", "Alltäglicher Bedarf", "Löwenherzrüstkammer", "Pestles Apotheke", "Zählhaus von Sturmwind", "Besucherzentrum von Sturmwind", "Der leere Köcher", "Die Güldene Rose", "Trias' Käse", "Wellers Arsenal", "Auktionshaus", "Greifenhorst", "Platz, Der Handelsdistrikt", "oberer Platz, Der Handelsdistrikt", "Das Tal der Helden", "Platz, Das Tal der Helden", "Das Magiersanktum", "Konfektionsgeschäft Larson", "Zum Blauen Eremiten", "Platz, Das Magiersanktum", "oberer Platz, Das Magierviertel"},
+    names_frFR = {"Forêt d'Elwynn", "tanière", "panneau indicateur", "puits", "Hurlevent", "Vallée de Comté-du-Nord", "Salle d’armes", "Aile de la bibliothèque", "Grand hall", "Abbaye de Northshire", "forge", "l'écurie", "Lac de Cristal", "tanière", "Mine de la crête aux échos", "Mine Veine-de-jaspe", "Veillée des héros", "Mine de Fargodeep", "Vignoble de Comté-du-Nord", "La Lisière", "panneau indicateur", "tour de la Lisière", "Chutes du Tonnerre", "Champ de potirons des Brackwell", "puits", "La ferme des Stonefield", "l'écurie", "puits", "Les Vignes des Maclure", "puits", "Lac du Cairn", "tanière", "Comté-de-l’Or", "Auberge de la Fierté du Lion", "panneau indicateur", "forge", "Camp de bûcherons du Val d'est", "scierie", "l'écurie", "puits", "Verger du lac Miroir", "puits", "Tour d'Azora", "Lac Miroir", "Garnison du ruisseau de l'ouest", "statue", "Le Débarcadère de Jerod", "Tour de la Crête", "tanière", "Place de la Cathédrale", "Place de la Cathédrale", "Hôtel de ville", "Massues méritées", "orphelinat", "Cathédrale de la Lumière", "Armures de plaque vertueuses", "place, Cathédrale de la Lumière", "Hall des champions", "Centre de commandement", "place, Centre de commandement", "Ruelle du Coupe-gorge", "Quartier des Nains", "banque", "place, Quartier des Nains", "taverne, Quartier des Nains", "Quartier des Mages", "Tout pour l'alchimiste", "Bibelot antique", "Textiles Duncan", "Composants essentiels", "Bâtons de Hurlevent", "place, Quartier des Mages", "place haute, Quartier des Mages", "Vieille ville", "Armes lourdes", "Lames loyales", "Immunité limitée", "Taverne du Cochon siffleur", "Bottes de Thane", "Les cinq venins mortels", "Au cuir protecteur", "Le Bouclier d'Argent", "place, Vieille ville", "SI:7", "place, SI:7", "place haute, SI:7", "Port de Hurlevent", "embarcadère, Port de Hurlevent", "phare", "l'épave", "place, Port de Hurlevent", "Donjon de Hurlevent", "Chambre du Requérant", "Galerie royale", "Salle de guerre", "Bibliothèque royale", "place, Donjon de Hurlevent", "Les canaux", "Tailleur et équipementier du canal", "Fleurs parfumées", "Vignoble de Gallina", "L'Aube d'argent", "Le Fil le plus fin", "prison", "place, Les canaux", "Le Parc", "place, Le Parc", "taverne, Le Parc", "place haute, Le Parc", "L’Agneau assassiné", "Pyrotechnie", "place, L’Agneau assassiné", "Quartier commerçant", "Marchandise quotidienne", "Armurerie Cœur de Lion", "Apothicaires Pilon", "Salle des dépôts de Hurlevent", "Centre d'accueil des visiteurs de Hurlevent", "Le Carquois vide", "La Rose dorée", "Fromages de Trias", "Arsenal de Weller", "hôtel des ventes", "nid des griffons", "place, Quartier commerçant", "place haute, Quartier commerçant", "Vallée des héros", "place, Vallée des Héros", "Sanctuaire du sorcier", "Couturiers Larson", "Le Solitaire bleu", "place, Sanctuaire du sorcier", "place haute, Quartier des Mages"},
 })
