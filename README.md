@@ -1,12 +1,13 @@
 # WowVision Surroundings data
 
 Map data for the surroundings of [WowVision](https://github.com/wow-vision/WowVision) on
-WoW: Forever. With it, WowVision describes where you walk: the land, roads and streets, city
+WoW: Forever, TBC Anniversary and Classic Era. With it, WowVision describes where you walk: the land, roads and streets, city
 squares, rooms of buildings, drop edges, entrances and what you bump into. What is said and how
 to use it: WowVision's documentation, "Surroundings (WoW: Forever)".
 
-Covered so far: Elwynn Forest with Stormwind, Dun Morogh with Ironforge, Tirisfal Glades with
-Undercity, and the Deeprun Tram. Place and building names are in English, German and French.
+Covered so far: on WoW: Forever, Elwynn Forest with Stormwind, Dun Morogh with Ironforge,
+Tirisfal Glades with Undercity, and the Deeprun Tram; on TBC Anniversary and Classic Era, Elwynn
+Forest with Stormwind (since 2026-10-23, the Forever beta having ended). Place and building names are in English, German and French.
 
 ## How WowVision uses it
 
@@ -19,6 +20,12 @@ WowVision on WoW: Forever. Nothing extra is installed. An older separate addon f
 ## Layout
 
 - `data.xml`: every zone file and places list file, for WowVision to include.
+- `tbc/`, `era/`: the same layout (`data.xml`, `zones/`, `places/`) for TBC Anniversary and Classic
+  Era, exported from those clients (WowVision's `tbc/modules.xml` and `vanilla/modules.xml`
+  include their `data.xml`). WoW: Forever rebuilt the world (its cities are new files, terrain and
+  objects differ in every zone), so its data does not fit the classic clients; Era and TBC
+  Anniversary are close but not the same (Elwynn: the Westbrook barracks, the Forest's Edge tower,
+  the Valley of Heroes), so each has its own files.
 - `zones/`: one generated file per zone. It registers the zone's frame and its data as JSON text;
   WowVision decodes and unpacks a zone only while the player is in it. The format (format 4) is
   described in WowVision's developer documentation, "Surroundings (WoW: Forever)".
