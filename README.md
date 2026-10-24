@@ -13,15 +13,15 @@ Forest with Stormwind (since 2026-10-23, the Forever beta having ended). Place a
 
 This repository is not an addon of its own. It is a git submodule of WowVision at
 `mapdata/WowVision_Surroundings`, the way WowVision's `locale` folder is: WowVision's
-`camelot/modules.xml` includes this repository's `data.xml`, so the data loads as part of
-WowVision on WoW: Forever. Nothing extra is installed. An older separate addon folder
+`camelot/modules.xml` includes `forever/data.xml`, `tbc/modules.xml` includes `tbc/data.xml` and
+`vanilla/modules.xml` includes `era/data.xml`, so the data loads as part of WowVision. Nothing extra is installed. An older separate addon folder
 `WowVision_Surroundings` in the game's addons folder is no longer used and should be removed.
 
 ## Layout
 
-- `data.xml`: every zone file and places list file, for WowVision to include.
-- `tbc/`, `era/`: the same layout (`data.xml`, `zones/`, `places/`) for TBC Anniversary and Classic
-  Era, exported from those clients (WowVision's `tbc/modules.xml` and `vanilla/modules.xml`
+- One folder per game version, each with the same layout (`data.xml`, `zones/`, `places/`):
+  `forever/` (WoW: Forever; at the repository's root until 2026-10-24), `tbc/` (TBC Anniversary),
+  `era/` (Classic Era), each exported from its own client (WowVision's `tbc/modules.xml` and `vanilla/modules.xml`
   include their `data.xml`). WoW: Forever rebuilt the world (its cities are new files, terrain and
   objects differ in every zone), so its data does not fit the classic clients; Era and TBC
   Anniversary are close but not the same (Elwynn: the Westbrook barracks, the Forest's Edge tower,
