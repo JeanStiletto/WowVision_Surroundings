@@ -7,9 +7,15 @@
   <Script file="zones\dunmorogh.lua" />
   <Script file="zones\elwynn-surfaces.lua" />
   <Script file="zones\elwynn.lua" />
+  <Script file="zones\swamp-surfaces.lua" />
+  <Script file="zones\swamp.lua" />
+  <Script file="zones\teldrassil-surfaces.lua" />
+  <Script file="zones\teldrassil.lua" />
   <Script file="zones\undercity-surfaces.lua" />
   <Script file="zones\undercity.lua" />
   <Script file="places\dunmorogh.lua" />
   <Script file="places\elwynn.lua" />
+  <Script file="places\swamp.lua" />
+  <Script file="places\teldrassil.lua" />
   <Script file="places\undercity.lua" />
 </Ui>
