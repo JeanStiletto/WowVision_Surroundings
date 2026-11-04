@@ -9,7 +9,10 @@
   <Script file="zones\elwynn.lua" />
   <Script file="zones\undercity-surfaces.lua" />
   <Script file="zones\undercity.lua" />
+  <Script file="zones\zephras-surfaces.lua" />
+  <Script file="zones\zephras.lua" />
   <Script file="places\dunmorogh.lua" />
   <Script file="places\elwynn.lua" />
   <Script file="places\undercity.lua" />
+  <Script file="places\zephras.lua" />
 </Ui>
