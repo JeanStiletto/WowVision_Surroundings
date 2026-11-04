@@ -268,6 +268,8 @@ addon.addZone({ key = "deeprun", label = "Deeprun Tram", map = 369, top = 200, l
     "struct":[
     ],
     "hallGround":[
+    ],
+    "groundSplit":[
     ]
    },
    "joins":[
