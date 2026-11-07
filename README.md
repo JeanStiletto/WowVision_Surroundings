@@ -5,16 +5,27 @@ WoW: Forever, TBC Anniversary and Classic Era. With it, WowVision describes wher
 squares, rooms of buildings, drop edges, entrances and what you bump into. What is said and how
 to use it: WowVision's documentation, "Surroundings (WoW: Forever)".
 
-Covered so far: on WoW: Forever, Elwynn Forest with Stormwind, Dun Morogh with Ironforge,
-Tirisfal Glades with Undercity, and the Deeprun Tram; on TBC Anniversary and Classic Era, Elwynn
-Forest with Stormwind (since 2026-10-23, the Forever beta having ended). Place and building names are in English, German and French.
+Covered so far:
+
+- TBC Anniversary: Elwynn Forest with Stormwind, Dun Morogh with Ironforge, Tirisfal Glades with Undercity, the
+  Deeprun Tram, Teldrassil with Darnassus, and the Swamp of Sorrows.
+- WoW: Forever: Elwynn Forest with Stormwind, Dun Morogh with Ironforge, Tirisfal Glades with Undercity, the Deeprun
+  Tram, and Zephras Isle.
+- Classic Era: Elwynn Forest with Stormwind, and Dun Morogh with Ironforge.
+
+Place and building names are in English, German and French.
+
+WowVision's bump module (what the player bumps into: `core/navigation/bumps.lua`) takes its own small data from
+these zone files: its `tools/bumps/pack.lua` keeps the objects, the buildings' rooms and doorways and the
+structures, and writes them into WowVision's `mapdata/bumps/` (see its `tools/bumps/README.md`).
 
 ## How WowVision uses it
 
 This repository is not an addon of its own. It is a git submodule of WowVision at
-`mapdata/WowVision_Surroundings`, the way WowVision's `locale` folder is: WowVision's
-`camelot/modules.xml` includes `forever/data.xml`, `tbc/modules.xml` includes `tbc/data.xml` and
-`vanilla/modules.xml` includes `era/data.xml`, so the data loads as part of WowVision. Nothing extra is installed. An older separate addon folder
+`mapdata/WowVision_Surroundings`, the way WowVision's `locale` folder is. WowVision packs each client's folder for
+the game (its `tools/surroundings-pack.py`, into `mapdata/WowVision_SurroundingsPacked/<client>/`), and
+`camelot/modules.xml`, `tbc/modules.xml` and `vanilla/modules.xml` include the packed `forever`, `tbc` and `era`
+folders, so the data loads as part of WowVision. Nothing extra is installed. An older separate addon folder
 `WowVision_Surroundings` in the game's addons folder is no longer used and should be removed.
 
 ## Layout
