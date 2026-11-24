@@ -26,7 +26,7 @@ addon.addZone({ key = "deeprun", label = "Deeprun Tram", map = 369, top = 200, l
    "roomsAtB":{},
    "spoken":{"tram tunnel 10":"tram tunnel","tram tunnel 2":"tram tunnel","tram tunnel 3":"tram tunnel","tram tunnel 4":"tram tunnel","tram tunnel 5":"tram tunnel","tram tunnel 6":"tram tunnel","tram tunnel 7":"tram tunnel","tram tunnel 8":"tram tunnel","tram tunnel 9":"tram tunnel"},
    "structs":[],
-   "objectNames":["lamp post","gnome pipe","rock","worm gear","king gear","king pistons","barrel","bucket","table","tree","planter","crane","wagon","brazier","wreck back"],
+   "objectNames":["lamp post","gnome pipe","rock","worm gear","king gear","king pistons","barrel","bucket","table","tree","planter","crane","wagon","brazier","wreck back","obstacle"],
    "stops":["Ironforge","Ironforge","Stormwind City","Stormwind City"]
   },
   "deDE":{
@@ -34,7 +34,7 @@ addon.addZone({ key = "deeprun", label = "Deeprun Tram", map = 369, top = 200, l
    "interiors":["Die Tiefenbahn"],
    "rooms":["Bahntunnel","Bahntunnel 2","Unterwassertunnel","Bahntunnel 3","Bahntunnel 4","Bahntunnel 5","Bahntunnel 6","Bahntunnel 7","Eingangshalle Ironforge","Durchgang Ironforge","Bahnhof Stormwind","Bahntunnel 8","Bahntunnel 9","Bahntunnel 10","Eingangshalle Stormwind","Durchgang Stormwind","Flur Stormwind","Bahnhof Ironforge","Wasser neben dem Tunnel Nord","Wasser neben dem Tunnel Süd"],
    "structs":[],
-   "objectNames":["Laternenpfahl","Rohr","Felsen","Schneckengetriebe","großes Zahnrad","Kolben","Fass","Eimer","Tisch","Baum","Pflanzkübel","Kran","Wagen","Kohlenbecken","Wrackteil"],
+   "objectNames":["Laternenpfahl","Rohr","Felsen","Schneckengetriebe","großes Zahnrad","Kolben","Fass","Eimer","Tisch","Baum","Pflanzkübel","Kran","Wagen","Kohlenbecken","Wrackteil","Hindernis"],
    "stops":["Ironforge","Ironforge","Stormwind","Stormwind"],
    "interiorWalls":{},
    "roomsShort":{},
@@ -48,7 +48,7 @@ addon.addZone({ key = "deeprun", label = "Deeprun Tram", map = 369, top = 200, l
    "interiors":["Tram des profondeurs"],
    "rooms":["tunnel du tram","tunnel du tram 2","tunnel sous-marin","tunnel du tram 3","tunnel du tram 4","tunnel du tram 5","tunnel du tram 6","tunnel du tram 7","hall d'entrée de Forgefer","passage de Forgefer","station de Hurlevent","tunnel du tram 8","tunnel du tram 9","tunnel du tram 10","hall d'entrée de Hurlevent","passage de Hurlevent","vestibule de Hurlevent","station de Forgefer","eau le long du tunnel nord","eau le long du tunnel sud"],
    "structs":[],
-   "objectNames":["réverbère","tuyau","rocher","vis sans fin","grand engrenage","pistons","tonneau","seau","table","arbre","jardinière","grue","chariot","brasero","morceau d'épave"],
+   "objectNames":["réverbère","tuyau","rocher","vis sans fin","grand engrenage","pistons","tonneau","seau","table","arbre","jardinière","grue","chariot","brasero","morceau d'épave","obstacle"],
    "stops":["Forgefer","Forgefer","Hurlevent","Hurlevent"],
    "interiorWalls":{},
    "roomsShort":{},
@@ -111,7 +111,8 @@ addon.addZone({ key = "deeprun", label = "Deeprun Tram", map = 369, top = 200, l
   "shapes":[
    23,12,1,37,29,2,21,13,1,17,12,1,17,8,2,11,9,3,20,10,2,27,19,2,67,35,4,76,46,4,150,45,5,142,55,6,69,10,5,70,10,5,7,7,7,6,6,7,4,4,8,39,27,2,24,12,2,27,16,2,
    8,8,9,28,18,10,5,5,7,31,31,11,67,18,12,46,25,13,14,14,14,131,19,5,9,8,3,10,8,3,39,32,3,20,19,3,34,33,3,56,46,3,36,36,3,55,54,3,60,47,3,34,34,3,72,57,3,62,49,3,
-   45,44,3,67,52,3,222,155,15,52,51,3,60,58,3,47,40,3,49,47,3,20,17,3,47,46,3,27,22,3,61,50,3,56,55,3,43,42,3,70,55,3,37,31,3,25,21,3,21,18,3,190,133,15
+   45,44,3,67,52,3,222,155,15,52,51,3,60,58,3,47,40,3,49,47,3,20,17,3,47,46,3,27,22,3,61,50,3,56,55,3,43,42,3,70,55,3,37,31,3,25,21,3,21,18,3,190,133,15,10,8,16,72,5,16,
+   13,11,16,11,11,16,8,8,16,75,5,16,15,9,16,24,24,16,25,23,16,23,21,16,12,10,16,12,12,16,17,17,16,15,5,16,14,11,16,26,16,16,25,24,16,23,22,16
   ],
   "list":[
    6,2369,88,1,1,139,2196,80,2,1,4,2241,115,3,1,139,2911,80,2,1,6,3084,88,1,1,4,2956,115,3,1,-439,3089,88,1,1,-441,2961,115,3,1,-439,2374,88,1,1,-554,2200,80,2,1,
@@ -146,7 +147,17 @@ addon.addZone({ key = "deeprun", label = "Deeprun Tram", map = 369, top = 200, l
    -202,-94,90,16,18,-182,-33,90,16,18,-180,-109,90,21,18,-196,210,90,16,18,-198,285,90,21,18,717,11402,149,29,19,896,12028,65,30,19,799,11243,81,31,19,1100,11482,49,32,19,674,11624,66,33,19,
    547,12844,8,34,19,457,13186,133,35,19,964,13307,103,36,19,1192,12240,43,37,19,743,13144,17,38,19,644,11039,72,39,19,545,12162,169,40,19,924,10956,16,41,19,1170,10986,15,42,19,935,11549,120,43,19,
    369,11884,162,6,19,-777,13112,107,44,20,-1167,13296,32,45,20,-1552,11941,17,46,20,-1115,11244,102,47,20,-1374,12541,47,48,20,-1642,11391,127,49,20,-1864,13105,4,50,20,-1887,11172,157,51,20,-1425,10971,116,52,20,
-   -809,12288,1,53,20,-888,10885,149,54,20,-1859,12244,56,55,20,-1552,13312,0,56,20,-925,13604,48,49,20,-1926,10760,78,57,20,-1221,11009,27,58,20
+   -809,12288,1,53,20,-888,10885,149,54,20,-1859,12244,56,55,20,-1552,13312,0,56,20,-925,13604,48,49,20,-1926,10760,78,57,20,-1221,11009,27,58,20,-18,3175,90,59,1,-375,2713,90,60,1,-18,2460,90,59,1,
+   108,1990,90,59,1,-18,1990,90,59,1,-518,1990,90,59,1,-518,3420,90,59,1,-18,3420,90,59,1,108,3420,90,59,1,-19,13234,44,61,3,-18,12869,54,61,3,-518,12140,90,59,3,-18,11039,53,61,3,
+   -19,11404,44,61,3,-518,13970,90,59,3,-19,13600,17,62,3,-518,12505,90,59,3,-18,13602,0,63,3,-18,13235,90,59,3,-18,12868,0,63,3,-18,12502,0,63,3,-18,13968,0,63,3,-18,11772,0,63,3,
+   -18,11405,90,59,3,-18,12138,0,63,3,-18,10670,90,59,4,-375,10205,90,64,4,-392,10205,90,59,4,-18,10205,90,59,4,-18,9955,90,59,4,-518,9485,90,59,4,108,9485,90,59,4,-18,9485,90,59,4,
+   108,19270,90,59,6,-18,19270,90,59,6,-518,19270,90,59,6,-392,19270,90,59,6,-18,18800,90,59,6,-18,18550,90,59,6,-392,18550,90,59,6,112,18550,90,59,6,-18,18085,90,59,6,-518,17840,90,59,6,
+   -18,17840,90,59,6,108,17840,90,59,6,-18,22300,90,59,7,-392,22300,90,59,7,-375,22295,90,64,7,-518,21465,90,59,8,-518,21100,90,59,8,-518,19635,90,59,8,1763,90,26,65,9,238,25143,45,66,11,
+   -649,24691,28,67,11,-648,24822,48,66,11,-649,25011,36,67,11,238,24822,48,66,11,240,25012,167,68,11,-648,25142,135,66,11,240,24692,165,68,11,-518,24480,90,59,11,-518,24115,90,59,11,-518,23750,90,59,11,
+   -18,24845,90,59,11,-18,24480,90,59,11,240,24692,90,69,11,238,25142,90,70,11,-648,24692,45,71,11,-648,25142,90,70,11,-518,5620,90,59,12,-518,4155,90,59,12,-518,3790,90,59,12,-518,8270,90,59,13,
+   -518,8635,90,59,13,-518,16985,90,59,14,-518,16620,90,59,14,-518,17350,90,59,14,1630,25259,12,72,15,1587,24835,24,73,15,1578,25011,117,74,15,1574,24861,61,73,15,-648,188,135,66,18,240,-7,15,68,18,
+   -649,316,44,75,18,238,317,156,76,18,-647,-137,42,66,18,238,188,45,66,18,-649,-6,152,67,18,238,-138,132,66,18,-18,1625,90,59,18,-18,1260,90,59,18,-18,-205,90,59,18,-518,1625,90,59,18,
+   -518,-205,90,59,18,238,188,90,70,18,240,-8,90,69,18,-648,-8,45,71,18,-648,188,90,70,18
   ]
  },
  "stops":[
